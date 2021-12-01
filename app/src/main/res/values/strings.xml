@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Meu App</string>
+
+    <string-array name="aulas">
+        <item>Segunda-Feira: \n
+                Auditoria e Segurança no Desenvolvimento de Aplicação</item>
+        <item>Terça-Feira: \n
+                Programação para Dispositivos Movéis \n
+                Projeto Integrado - Mobile</item>
+        <item>Quarta-Feira: \n
+                Aprendizagem de Máquina</item>
+        <item>Quinta-Feira: \n
+                Programação para Dispositivos Movéis</item>
+        <item>Sexta-Feira: \n
+                Métricas e Arquitetura de Software</item>
+    </string-array>
 </resources>
